@@ -20,4 +20,17 @@ You could also install via yarn:
 yarn global add pkg-availibity
 ```
 
+## Installation
+
+Just feed it a list of names:
+
+```
+npm run pkg-availibity lodash react foo-pkg
+```
+
+You could also install via yarn:
+```
+yarn pkg-availibity bar=tools react my-next-pkg
+```
+
 *Enjoy!*
