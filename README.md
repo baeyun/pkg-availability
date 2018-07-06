@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="170px" src="https://raw.githubusercontent.com/bukharim96/pkg-availability/master/screenshot.png">
+  <img height="170px" src="https://raw.githubusercontent.com/bukharim96/pkg-availability/master/preview.png">
   <small>A package availability checker for npm packages</small>
 </p>
 
