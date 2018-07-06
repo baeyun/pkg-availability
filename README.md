@@ -20,7 +20,7 @@ You could also install via yarn:
 yarn global add pkg-availibity
 ```
 
-## Installation
+## Usage
 
 Just feed it a list of names:
 
