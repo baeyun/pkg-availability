@@ -1,6 +1,6 @@
 # pkg-availability
 
-**pkg-availability** is a CLI too for checking npm package name availability. I wrote it as a weekend project to help easen the daunting process of searching for package names one by one on npm. With this tool, I just paste in a list of names and it does the checking. It then outputs a pretty list with details on the availability of each package name.
+**pkg-availability** is a CLI tool for checking npm package name availability. I wrote it as a weekend project to help easen the daunting process of searching for package names one by one on npm. With this tool, I just paste in a list of names and it does the checking. It then outputs a pretty list with details on the availability of each package name.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bukharim96/pkg-availability/master/preview.png">
