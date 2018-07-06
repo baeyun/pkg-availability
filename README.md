@@ -1,8 +1,9 @@
 <p align="center">
   <img height="170px" src="https://raw.githubusercontent.com/bukharim96/pkg-availability/master/screenshot.png">
+  <small>A package availability checker for npm packages</small>
 </p>
+
 # pkg-availability
-<small>A package availability checker for npm packages</small>
 
 **pkg-availability** is a CLI too for checking npm package name availability. I wrote it as a weekend project to help easen the daunting process of searching for package names one by one on npm. With this tool, I just paste in a list of names and it does the checking. It then outputs a pretty list with details on the availability of each package name.
 
