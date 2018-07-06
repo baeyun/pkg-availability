@@ -1,0 +1,16 @@
+{
+  "name": "is-available",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pkg-availability": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "loading-indicator": "^2.0.0"
+  }
+}
